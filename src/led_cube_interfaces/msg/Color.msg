@@ -1,0 +1,2 @@
+std_msgs/ColorRGBA color
+std_msgs/UInt16 position

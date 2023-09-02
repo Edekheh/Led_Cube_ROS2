@@ -1,0 +1,658 @@
+Panels:
+  - Class: rviz_common/Displays
+    Help Height: 78
+    Name: Displays
+    Property Tree Widget:
+      Expanded:
+        - /Global Options1
+        - /Status1
+        - /MarkerArray1
+        - /MarkerArray1/Status1
+      Splitter Ratio: 0.5
+    Tree Height: 719
+  - Class: rviz_common/Selection
+    Name: Selection
+  - Class: rviz_common/Tool Properties
+    Expanded:
+      - /2D Goal Pose1
+      - /Publish Point1
+    Name: Tool Properties
+    Splitter Ratio: 0.5886790156364441
+  - Class: rviz_common/Views
+    Expanded:
+      - /Current View1
+    Name: Views
+    Splitter Ratio: 0.5
+  - Class: rviz_common/Time
+    Experimental: false
+    Name: Time
+    SyncMode: 0
+    SyncSource: ""
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Alpha: 0.5
+      Cell Size: 1
+      Class: rviz_default_plugins/Grid
+      Color: 160; 160; 164
+      Enabled: true
+      Line Style:
+        Line Width: 0.029999999329447746
+        Value: Lines
+      Name: Grid
+      Normal Cell Count: 0
+      Offset:
+        X: 0
+        Y: 0
+        Z: 0
+      Plane: XY
+      Plane Cell Count: 10
+      Reference Frame: <Fixed Frame>
+      Value: true
+    - Class: rviz_default_plugins/MarkerArray
+      Enabled: true
+      Name: MarkerArray
+      Namespaces:
+        cube0: true
+        cube1: true
+        cube10: true
+        cube100: true
+        cube101: true
+        cube102: true
+        cube103: true
+        cube104: true
+        cube105: true
+        cube106: true
+        cube107: true
+        cube108: true
+        cube109: true
+        cube11: true
+        cube110: true
+        cube111: true
+        cube112: true
+        cube113: true
+        cube114: true
+        cube115: true
+        cube116: true
+        cube117: true
+        cube118: true
+        cube119: true
+        cube12: true
+        cube120: true
+        cube121: true
+        cube122: true
+        cube123: true
+        cube124: true
+        cube125: true
+        cube126: true
+        cube127: true
+        cube128: true
+        cube129: true
+        cube13: true
+        cube130: true
+        cube131: true
+        cube132: true
+        cube133: true
+        cube134: true
+        cube135: true
+        cube136: true
+        cube137: true
+        cube138: true
+        cube139: true
+        cube14: true
+        cube140: true
+        cube141: true
+        cube142: true
+        cube143: true
+        cube144: true
+        cube145: true
+        cube146: true
+        cube147: true
+        cube148: true
+        cube149: true
+        cube15: true
+        cube150: true
+        cube151: true
+        cube152: true
+        cube153: true
+        cube154: true
+        cube155: true
+        cube156: true
+        cube157: true
+        cube158: true
+        cube159: true
+        cube16: true
+        cube160: true
+        cube161: true
+        cube162: true
+        cube163: true
+        cube164: true
+        cube165: true
+        cube166: true
+        cube167: true
+        cube168: true
+        cube169: true
+        cube17: true
+        cube170: true
+        cube171: true
+        cube172: true
+        cube173: true
+        cube174: true
+        cube175: true
+        cube176: true
+        cube177: true
+        cube178: true
+        cube179: true
+        cube18: true
+        cube180: true
+        cube181: true
+        cube182: true
+        cube183: true
+        cube184: true
+        cube185: true
+        cube186: true
+        cube187: true
+        cube188: true
+        cube189: true
+        cube19: true
+        cube190: true
+        cube191: true
+        cube192: true
+        cube193: true
+        cube194: true
+        cube195: true
+        cube196: true
+        cube197: true
+        cube198: true
+        cube199: true
+        cube2: true
+        cube20: true
+        cube200: true
+        cube201: true
+        cube202: true
+        cube203: true
+        cube204: true
+        cube205: true
+        cube206: true
+        cube207: true
+        cube208: true
+        cube209: true
+        cube21: true
+        cube210: true
+        cube211: true
+        cube212: true
+        cube213: true
+        cube214: true
+        cube215: true
+        cube216: true
+        cube217: true
+        cube218: true
+        cube219: true
+        cube22: true
+        cube220: true
+        cube221: true
+        cube222: true
+        cube223: true
+        cube224: true
+        cube225: true
+        cube226: true
+        cube227: true
+        cube228: true
+        cube229: true
+        cube23: true
+        cube230: true
+        cube231: true
+        cube232: true
+        cube233: true
+        cube234: true
+        cube235: true
+        cube236: true
+        cube237: true
+        cube238: true
+        cube239: true
+        cube24: true
+        cube240: true
+        cube241: true
+        cube242: true
+        cube243: true
+        cube244: true
+        cube245: true
+        cube246: true
+        cube247: true
+        cube248: true
+        cube249: true
+        cube25: true
+        cube250: true
+        cube251: true
+        cube252: true
+        cube253: true
+        cube254: true
+        cube255: true
+        cube256: true
+        cube257: true
+        cube258: true
+        cube259: true
+        cube26: true
+        cube260: true
+        cube261: true
+        cube262: true
+        cube263: true
+        cube264: true
+        cube265: true
+        cube266: true
+        cube267: true
+        cube268: true
+        cube269: true
+        cube27: true
+        cube270: true
+        cube271: true
+        cube272: true
+        cube273: true
+        cube274: true
+        cube275: true
+        cube276: true
+        cube277: true
+        cube278: true
+        cube279: true
+        cube28: true
+        cube280: true
+        cube281: true
+        cube282: true
+        cube283: true
+        cube284: true
+        cube285: true
+        cube286: true
+        cube287: true
+        cube288: true
+        cube289: true
+        cube29: true
+        cube290: true
+        cube291: true
+        cube292: true
+        cube293: true
+        cube294: true
+        cube295: true
+        cube296: true
+        cube297: true
+        cube298: true
+        cube299: true
+        cube3: true
+        cube30: true
+        cube300: true
+        cube301: true
+        cube302: true
+        cube303: true
+        cube304: true
+        cube305: true
+        cube306: true
+        cube307: true
+        cube308: true
+        cube309: true
+        cube31: true
+        cube310: true
+        cube311: true
+        cube312: true
+        cube313: true
+        cube314: true
+        cube315: true
+        cube316: true
+        cube317: true
+        cube318: true
+        cube319: true
+        cube32: true
+        cube320: true
+        cube321: true
+        cube322: true
+        cube323: true
+        cube324: true
+        cube325: true
+        cube326: true
+        cube327: true
+        cube328: true
+        cube329: true
+        cube33: true
+        cube330: true
+        cube331: true
+        cube332: true
+        cube333: true
+        cube334: true
+        cube335: true
+        cube336: true
+        cube337: true
+        cube338: true
+        cube339: true
+        cube34: true
+        cube340: true
+        cube341: true
+        cube342: true
+        cube343: true
+        cube344: true
+        cube345: true
+        cube346: true
+        cube347: true
+        cube348: true
+        cube349: true
+        cube35: true
+        cube350: true
+        cube351: true
+        cube352: true
+        cube353: true
+        cube354: true
+        cube355: true
+        cube356: true
+        cube357: true
+        cube358: true
+        cube359: true
+        cube36: true
+        cube360: true
+        cube361: true
+        cube362: true
+        cube363: true
+        cube364: true
+        cube365: true
+        cube366: true
+        cube367: true
+        cube368: true
+        cube369: true
+        cube37: true
+        cube370: true
+        cube371: true
+        cube372: true
+        cube373: true
+        cube374: true
+        cube375: true
+        cube376: true
+        cube377: true
+        cube378: true
+        cube379: true
+        cube38: true
+        cube380: true
+        cube381: true
+        cube382: true
+        cube383: true
+        cube384: true
+        cube385: true
+        cube386: true
+        cube387: true
+        cube388: true
+        cube389: true
+        cube39: true
+        cube390: true
+        cube391: true
+        cube392: true
+        cube393: true
+        cube394: true
+        cube395: true
+        cube396: true
+        cube397: true
+        cube398: true
+        cube399: true
+        cube4: true
+        cube40: true
+        cube400: true
+        cube401: true
+        cube402: true
+        cube403: true
+        cube404: true
+        cube405: true
+        cube406: true
+        cube407: true
+        cube408: true
+        cube409: true
+        cube41: true
+        cube410: true
+        cube411: true
+        cube412: true
+        cube413: true
+        cube414: true
+        cube415: true
+        cube416: true
+        cube417: true
+        cube418: true
+        cube419: true
+        cube42: true
+        cube420: true
+        cube421: true
+        cube422: true
+        cube423: true
+        cube424: true
+        cube425: true
+        cube426: true
+        cube427: true
+        cube428: true
+        cube429: true
+        cube43: true
+        cube430: true
+        cube431: true
+        cube432: true
+        cube433: true
+        cube434: true
+        cube435: true
+        cube436: true
+        cube437: true
+        cube438: true
+        cube439: true
+        cube44: true
+        cube440: true
+        cube441: true
+        cube442: true
+        cube443: true
+        cube444: true
+        cube445: true
+        cube446: true
+        cube447: true
+        cube448: true
+        cube449: true
+        cube45: true
+        cube450: true
+        cube451: true
+        cube452: true
+        cube453: true
+        cube454: true
+        cube455: true
+        cube456: true
+        cube457: true
+        cube458: true
+        cube459: true
+        cube46: true
+        cube460: true
+        cube461: true
+        cube462: true
+        cube463: true
+        cube464: true
+        cube465: true
+        cube466: true
+        cube467: true
+        cube468: true
+        cube469: true
+        cube47: true
+        cube470: true
+        cube471: true
+        cube472: true
+        cube473: true
+        cube474: true
+        cube475: true
+        cube476: true
+        cube477: true
+        cube478: true
+        cube479: true
+        cube48: true
+        cube480: true
+        cube481: true
+        cube482: true
+        cube483: true
+        cube484: true
+        cube485: true
+        cube486: true
+        cube487: true
+        cube488: true
+        cube489: true
+        cube49: true
+        cube490: true
+        cube491: true
+        cube492: true
+        cube493: true
+        cube494: true
+        cube495: true
+        cube496: true
+        cube497: true
+        cube498: true
+        cube499: true
+        cube5: true
+        cube50: true
+        cube500: true
+        cube501: true
+        cube502: true
+        cube503: true
+        cube504: true
+        cube505: true
+        cube506: true
+        cube507: true
+        cube508: true
+        cube509: true
+        cube51: true
+        cube510: true
+        cube511: true
+        cube52: true
+        cube53: true
+        cube54: true
+        cube55: true
+        cube56: true
+        cube57: true
+        cube58: true
+        cube59: true
+        cube6: true
+        cube60: true
+        cube61: true
+        cube62: true
+        cube63: true
+        cube64: true
+        cube65: true
+        cube66: true
+        cube67: true
+        cube68: true
+        cube69: true
+        cube7: true
+        cube70: true
+        cube71: true
+        cube72: true
+        cube73: true
+        cube74: true
+        cube75: true
+        cube76: true
+        cube77: true
+        cube78: true
+        cube79: true
+        cube8: true
+        cube80: true
+        cube81: true
+        cube82: true
+        cube83: true
+        cube84: true
+        cube85: true
+        cube86: true
+        cube87: true
+        cube88: true
+        cube89: true
+        cube9: true
+        cube90: true
+        cube91: true
+        cube92: true
+        cube93: true
+        cube94: true
+        cube95: true
+        cube96: true
+        cube97: true
+        cube98: true
+        cube99: true
+      Topic:
+        Depth: 5
+        Durability Policy: Volatile
+        History Policy: Keep Last
+        Reliability Policy: Reliable
+        Value: /led_cube/led_cube
+      Value: true
+  Enabled: true
+  Global Options:
+    Background Color: 48; 48; 48
+    Fixed Frame: map
+    Frame Rate: 30
+  Name: root
+  Tools:
+    - Class: rviz_default_plugins/Interact
+      Hide Inactive Objects: true
+    - Class: rviz_default_plugins/MoveCamera
+    - Class: rviz_default_plugins/Select
+    - Class: rviz_default_plugins/FocusCamera
+    - Class: rviz_default_plugins/Measure
+      Line color: 128; 128; 0
+    - Class: rviz_default_plugins/SetInitialPose
+      Covariance x: 0.25
+      Covariance y: 0.25
+      Covariance yaw: 0.06853891909122467
+      Topic:
+        Depth: 5
+        Durability Policy: Volatile
+        History Policy: Keep Last
+        Reliability Policy: Reliable
+        Value: /initialpose
+    - Class: rviz_default_plugins/SetGoal
+      Topic:
+        Depth: 5
+        Durability Policy: Volatile
+        History Policy: Keep Last
+        Reliability Policy: Reliable
+        Value: /goal_pose
+    - Class: rviz_default_plugins/PublishPoint
+      Single click: true
+      Topic:
+        Depth: 5
+        Durability Policy: Volatile
+        History Policy: Keep Last
+        Reliability Policy: Reliable
+        Value: /clicked_point
+  Transformation:
+    Current:
+      Class: rviz_default_plugins/TF
+  Value: true
+  Views:
+    Current:
+      Class: rviz_default_plugins/Orbit
+      Distance: 32.01267623901367
+      Enable Stereo Rendering:
+        Stereo Eye Separation: 0.05999999865889549
+        Stereo Focal Distance: 1
+        Swap Stereo Eyes: false
+        Value: false
+      Focal Point:
+        X: 0
+        Y: 0
+        Z: 0
+      Focal Shape Fixed Size: true
+      Focal Shape Size: 0.05000000074505806
+      Invert Z Axis: false
+      Name: Current View
+      Near Clip Distance: 0.009999999776482582
+      Pitch: 0.6603983640670776
+      Target Frame: <Fixed Frame>
+      Value: Orbit (rviz)
+      Yaw: 5.678582191467285
+    Saved: ~
+Window Geometry:
+  Displays:
+    collapsed: false
+  Height: 1016
+  Hide Left Dock: false
+  Hide Right Dock: false
+  QMainWindow State: 000000ff00000000fd0000000400000000000001560000035afc0200000008fb0000001200530065006c0065006300740069006f006e00000001e10000009b0000005c00fffffffb0000001e0054006f006f006c002000500072006f007000650072007400690065007302000001ed000001df00000185000000a3fb000000120056006900650077007300200054006f006f02000001df000002110000018500000122fb000000200054006f006f006c002000500072006f0070006500720074006900650073003203000002880000011d000002210000017afb000000100044006900730070006c006100790073010000003d0000035a000000c900fffffffb0000002000730065006c0065006300740069006f006e00200062007500660066006500720200000138000000aa0000023a00000294fb00000014005700690064006500530074006500720065006f02000000e6000000d2000003ee0000030bfb0000000c004b0069006e0065006300740200000186000001060000030c00000261000000010000010f0000035afc0200000003fb0000001e0054006f006f006c002000500072006f00700065007200740069006500730100000041000000780000000000000000fb0000000a00560069006500770073010000003d0000035a000000a400fffffffb0000001200530065006c0065006300740069006f006e010000025a000000b200000000000000000000000200000490000000a9fc0100000001fb0000000a00560069006500770073030000004e00000080000002e100000197000000030000073a0000003efc0100000002fb0000000800540069006d006501000000000000073a000002fb00fffffffb0000000800540069006d00650100000000000004500000000000000000000004c90000035a00000004000000040000000800000008fc0000000100000002000000010000000a0054006f006f006c00730100000000ffffffff0000000000000000
+  Selection:
+    collapsed: false
+  Time:
+    collapsed: false
+  Tool Properties:
+    collapsed: false
+  Views:
+    collapsed: false
+  Width: 1850
+  X: 70
+  Y: 27
